@@ -1,0 +1,556 @@
+{
+    "lens_id": "c9f3bd66-e158-48eb-92c8-02e3c8ce2d6c",
+    "document_id": "pa-eI525KH0VNforxiaY",
+    "original_document_id": "DnnGID3L6DuZi9MHDTv-",
+    "version": "23",
+    "lastChanged": "1589037532089",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Main Script"
+                    ],
+                    [
+                        "Scan to tip (yogi-square cash)"
+                    ],
+                    [
+                        "Scan to tip DJ (mm_user page)"
+                    ],
+                    [
+                        "velvet-curtains-11"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1587201807819603:37240",
+                    "1587201886911002:50309"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "c715d2d3c8cdb35d1ea366fc137079e1",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "MM-DJ-Tip",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 3.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1587201807828606:37307",
+                    "1587201887480283:51028"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1587202030566813:69051",
+                    "name": "Files\/File5.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1587321533744566:5237",
+                    "name": "Files\/File8.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1589033214978951:5117",
+                    "name": "Files\/File26.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1589035994537398:15799",
+                    "name": "Files\/File28.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1587201886911824:50315",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1587201887095178:50499",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1587201887119561:50646",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1587201807819603:37240",
+                "4": "1587201807828387:37305",
+                "5": "1587201807828503:37306",
+                "6": "1587201829739603:38377",
+                "7": "1587201886911002:50309",
+                "8": "1587201886911291:50311",
+                "9": "1587201886911555:50313",
+                "10": "1587201887140211:50780",
+                "11": "1587201887140502:50782",
+                "12": "1587201887311822:50905",
+                "13": "1587202030606287:69119",
+                "14": "1587321960023525:11224"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "5",
+                    "v": "Files\/File5.js"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.jpg"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.jpg"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.png"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.png"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "739",
+                        "v": "Main Script.js"
+                    },
+                    {
+                        "k": "741",
+                        "v": "velvet-curtains-11.jpg"
+                    },
+                    {
+                        "k": "773",
+                        "v": "Scan to tip (yogi-square cash).png"
+                    },
+                    {
+                        "k": "774",
+                        "v": "Scan to tip DJ (mm_user page).png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "738",
+                        "v": "16335984e52291c30efecebdf380eb60"
+                    },
+                    {
+                        "k": "739",
+                        "v": "7ca6cb4b8934d4414a2da5837f2eae61"
+                    },
+                    {
+                        "k": "740",
+                        "v": "16a7156bf3cbf1d53fdf112b6c0645f5"
+                    },
+                    {
+                        "k": "741",
+                        "v": "2f8df2e2cc050abebb55f031105e3bdd"
+                    },
+                    {
+                        "k": "742",
+                        "v": "7ee1c2f05c1264fd1b7c3239c0237778"
+                    },
+                    {
+                        "k": "743",
+                        "v": "f48706fd49c7ceb18e38fadac97e09fe"
+                    },
+                    {
+                        "k": "744",
+                        "v": "04a6884371f6e10add9343dae4a53222"
+                    },
+                    {
+                        "k": "747",
+                        "v": "681a18aaf9bc9d6f4c8b09c5284cd97f"
+                    },
+                    {
+                        "k": "769",
+                        "v": "8d576970ebbb76c6e68a411102115fae"
+                    },
+                    {
+                        "k": "770",
+                        "v": "d08d782e0aae2023191cb7ce832c6209"
+                    },
+                    {
+                        "k": "771",
+                        "v": "5713cec9e6daa37c367d1270b0413cdf"
+                    },
+                    {
+                        "k": "772",
+                        "v": "6fd0f83c602d1b7479d5188d860c3b2e"
+                    },
+                    {
+                        "k": "773",
+                        "v": "8c532499fb88e5c2957bf194c62c085a"
+                    },
+                    {
+                        "k": "774",
+                        "v": "b5a5fbd82ab5471aad9cef2399ffe4b0"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-05-09T07:53:14",
+                        "name": "Public",
+                        "hash": "5c878a9230a8ef244c41ef6a0b854e18",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-19T05:15:04",
+                                "name": "velvet-curtains-11.jpg",
+                                "hash": "2f8df2e2cc050abebb55f031105e3bdd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-19T15:16:12",
+                                "name": "Main Script.js",
+                                "hash": "7ca6cb4b8934d4414a2da5837f2eae61",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-30T15:34:10",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-09T07:04:27",
+                                "name": "Scan to tip (yogi-square cash).png",
+                                "hash": "8c532499fb88e5c2957bf194c62c085a",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-09T07:04:14",
+                                "name": "Scan to tip DJ (mm_user page).png",
+                                "hash": "b5a5fbd82ab5471aad9cef2399ffe4b0",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Main Script",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "11",
+                        "dependency": "0",
+                        "uid": "1587202030566813:69051",
+                        "fileId": "5",
+                        "originalId": "18446744073709551615",
+                        "publicId": "739",
+                        "source": "C:\/Users\/Atit Kharel\/AppData\/Local\/Temp\/Lens Studio-VHnRCw\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "velvet-curtains-11",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "uid": "1587321533744566:5237",
+                        "fileId": "8",
+                        "originalId": "9",
+                        "publicId": "741",
+                        "source": "\/Users\/gilad\/Downloads\/velvet-curtains-11.jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Scan to tip (yogi-square cash)",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "22",
+                        "dependency": "0",
+                        "uid": "1589033214978951:5117",
+                        "fileId": "26",
+                        "originalId": "27",
+                        "publicId": "773",
+                        "source": "\/Users\/lawson\/Downloads\/Scan to tip (yogi-square cash).png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Scan to tip DJ (mm_user page)",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "23",
+                        "dependency": "0",
+                        "uid": "1589035994537398:15799",
+                        "fileId": "28",
+                        "originalId": "29",
+                        "publicId": "774",
+                        "source": "\/Users\/lawson\/Downloads\/Scan to tip DJ (mm_user page).png",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1587201887311822:50905"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
